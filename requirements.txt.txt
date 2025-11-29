@@ -1,0 +1,23 @@
+# 👁️ Diabetic Retinopathy Classification (AlexNet + CLAHE + Streamlit)
+
+This project detects the severity of **Diabetic Retinopathy** from retinal fundus images using:
+
+- **AlexNet (TensorFlow / Keras)**
+- **CLAHE preprocessing**
+- **Data augmentation**
+- **Streamlit web app**
+
+## 🚀 Features
+✔ Upload a retina image  
+✔ Automatic CLAHE enhancement  
+✔ Classifies into:
+- No_DR
+- Mild
+- Moderate
+- Severe
+- Proliferate_DR  
+✔ Shows prediction + confidence score  
+✔ Fast and easy web interface  
+
+
+
